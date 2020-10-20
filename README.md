@@ -1,4 +1,5 @@
-# employee-management-app
+# Employee Management App
+-----------------------------------------------------------
 A Full Stack Application to implement Employee Management 
 
 ### Tech Stack 
